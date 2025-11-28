@@ -7,9 +7,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'baby-blue': '#A5D6F7',  // Azul bebê
-        'army-green': '#2E5B3F', // Verde escuro
-        'light-green': '#90EE90', // Verde claro para botão
+        'baby-blue': '#A5D6F7',
+        'army-green': '#2E5B3F',
+        'light-green': '#90EE90',
+      },
+      fontFamily: {
+        sans: ['Poppins', 'sans-serif'],
       },
     },
   },
