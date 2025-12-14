@@ -39,7 +39,7 @@ export const initialGifts: Gift[] = [
   { id: '33', name: 'Fralda G + Conjuntinho (M/G)', icon: 'FaTshirt' },
   { id: '34', name: 'Kit Cobertor com Naninha', icon: 'FaBed' },
   { id: '35', name: 'Kit cueiros + Brinquedo', icon: 'FaGamepad' },
-  { id: '36', name: 'Kit de berço', icon: 'FaBed' },
+  { id: '36', name: 'Jogo de berço', icon: 'FaBed' },
   { id: '37', name: 'Babá eletrônica', icon: 'FaVideo' },
   { id: '38', name: 'Manta + Kit paninhos de boca', icon: 'FaFeather' },
   { id: '39', name: 'Banheira', icon: 'FaBath' },

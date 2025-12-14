@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { FaHeart, FaBaby, FaCalendarAlt } from 'react-icons/fa';
-import casalImagem from '../assets/casal.jpg';
+import casalImagem from '../assets/ursinho.png';
 
 export const Header = () => {
   return (
