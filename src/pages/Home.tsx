@@ -1,4 +1,3 @@
-// src/pages/Home.tsx
 import { useState, useEffect } from 'react';
 import { Header } from '../components/Header';
 import { GiftList } from '../features/gifts/GiftList';
@@ -6,7 +5,7 @@ import { ConfirmedList } from '../components/ConfirmedList';
 import { Button } from '../components/ui/Button';
 import { Input } from '../components/ui/Input';
 import { useGifts } from '../features/gifts/useGifts';
-import { supabase } from '../utils/storage'; // ← importa o cliente
+import { supabase } from '../utils/storage';
 import { Toaster, toast } from 'react-hot-toast';
 
 export const Home = () => {
