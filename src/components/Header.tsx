@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { FaHeart, FaBaby, FaCalendarAlt } from 'react-icons/fa';
+import casalImagem from '../assets/casal.jpg';
 
 export const Header = () => {
   return (
@@ -12,11 +13,7 @@ export const Header = () => {
           className="mb-8"
         >
           <div className="w-64 h-64 md:w-80 md:h-80 mx-auto rounded-full overflow-hidden border-8 border-white shadow-2xl">
-            <img
-              src="/casal.jpg"
-              alt="Juan e Júlia esperando o Jonathan"
-              className="w-full h-full object-cover"
-            />
+            <img src={casalImagem} alt="Casal" className="w-full h-full object-cover" />
           </div>
         </motion.div>
 
