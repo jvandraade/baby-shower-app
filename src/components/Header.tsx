@@ -36,7 +36,7 @@ export const Header = () => {
 
           <div className="flex items-center justify-center gap-3 text-xl text-army-green">
             <FaCalendarAlt />
-            <span>Sábado, 14 de Fevereiro de 2026 • 15h</span>
+            <span>Sábado, 10 de Janeiro de 2026 • 12:00 h</span>
           </div>
 
           <p className="mt-10 text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
